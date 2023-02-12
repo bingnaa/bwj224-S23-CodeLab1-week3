@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Data Directory Practice
 
-DO NOT LEAVE IT LIKE THIS!!!
+Built on the game from last week: now with the added function of increasing difficulty. Can hit the hexagon to go up a mode in difficulty- this mode increases the damage done by "enemy" objects by 2x the damage.
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Space bar must be pressed to go back to "easy" mode.
